@@ -1,1 +1,1 @@
-# Tugas-1a-Struktur-Data-Reysa-Priatna
+# Tugas-1a dan 1b-Struktur-Data-Reysa-Priatna
